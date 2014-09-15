@@ -1,0 +1,2 @@
+/Users/stevenw/Code/C++/ProgCpp/cmake_tutorial/step1/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/stevenw/Code/C++/ProgCpp/cmake_tutorial/step1/build/CMakeFiles/Tutorial.dir

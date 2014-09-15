@@ -4,8 +4,9 @@
  Date: 2014-09-14
 */
 
-//#include "cpp_std.h"
 #include "mod_std_lib_facilities.h"
+//#include <iostream>
+//using namespace std;
 
 int main()
 {
